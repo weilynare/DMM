@@ -1,0 +1,176 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0.1</Version>
+<Array>
+<Name>VI Info</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>VI Info</Name>
+<NumElts>3</NumElts>
+<Array>
+<Name>Controls</Name>
+<Dimsize>5</Dimsize>
+<Cluster>
+<Name>Control Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Control Name</Name>
+<Val>簇.布尔</Val>
+</String>
+<String>
+<Name>Property Type</Name>
+<Val>Blinking</Val>
+</String>
+<Array>
+<Name>Content</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Content Element</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Language</Name>
+<Val>Chinese</Val>
+</String>
+<String>
+<Name>Content</Name>
+<Val>0</Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name>Control Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Control Name</Name>
+<Val>数组.簇.单选按钮.Item 1</Val>
+</String>
+<String>
+<Name>Property Type</Name>
+<Val>Caption.Text</Val>
+</String>
+<Array>
+<Name>Content</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name>Content Element</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Language</Name>
+<Val>Chinese</Val>
+</String>
+<String>
+<Name>Content</Name>
+<Val>项1</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Content Element</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Language</Name>
+<Val>English</Val>
+</String>
+<String>
+<Name>Content</Name>
+<Val>Shilin05</Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name>Control Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Control Name</Name>
+<Val>数组.簇.单选按钮.Item 0</Val>
+</String>
+<String>
+<Name>Property Type</Name>
+<Val>Caption.Text</Val>
+</String>
+<Array>
+<Name>Content</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Content Element</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Language</Name>
+<Val>English</Val>
+</String>
+<String>
+<Name>Content</Name>
+<Val>shilin03</Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name>Control Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Control Name</Name>
+<Val>簇.布尔</Val>
+</String>
+<String>
+<Name>Property Type</Name>
+<Val>Caption.Text</Val>
+</String>
+<Array>
+<Name>Content</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Content Element</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Language</Name>
+<Val>English</Val>
+</String>
+<String>
+<Name>Content</Name>
+<Val>Test Bool</Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+<Cluster>
+<Name>Control Info</Name>
+<NumElts>3</NumElts>
+<String>
+<Name>Control Name</Name>
+<Val>选项卡控件.数组.簇.单选按钮.Item 0</Val>
+</String>
+<String>
+<Name>Property Type</Name>
+<Val>Lable.Text</Val>
+</String>
+<Array>
+<Name>Content</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Content Element</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Language</Name>
+<Val>Chinese</Val>
+</String>
+<String>
+<Name>Content</Name>
+<Val>Item 0</Val>
+</String>
+</Cluster>
+</Array>
+</Cluster>
+</Array>
+<String>
+<Name>VI Path</Name>
+<Val>UI/Test</Val>
+</String>
+<String>
+<Name>VI Name</Name>
+<Val>LC Language Test.vi</Val>
+</String>
+</Cluster>
+</Array>
+</LVData>
