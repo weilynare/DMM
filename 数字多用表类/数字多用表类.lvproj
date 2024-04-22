@@ -12,6 +12,19 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="数字多用表接口.lvlibp" Type="LVLibp" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp">
+			<Item Name="Application Directory.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Application Directory.vi"/>
+			<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
+			<Item Name="Check Path.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/jpeg.llb/Check Path.vi"/>
+			<Item Name="Create Mask By Alpha.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Create Mask By Alpha.vi"/>
+			<Item Name="Directory of Top Level VI.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/jpeg.llb/Directory of Top Level VI.vi"/>
+			<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Draw Flattened Pixmap.vi"/>
+			<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+			<Item Name="FixBadRect.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/pictutil.llb/FixBadRect.vi"/>
+			<Item Name="imagedata.ctl" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/picture.llb/imagedata.ctl"/>
+			<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+			<Item Name="LVRectTypeDef.ctl" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+			<Item Name="NI_FileType.lvlib" Type="Library" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
+			<Item Name="Read PNG File.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/picture/png.llb/Read PNG File.vi"/>
 			<Item Name="subTimeDelay.vi" Type="VI" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/1abvi3w/vi.lib/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 			<Item Name="数字多用表接口.lvclass" Type="LVClass" URL="../../数字多用表接口/builds/数字多用表接口.lvlibp/数字多用表接口/数字多用表接口.lvclass"/>
 		</Item>
@@ -44,7 +57,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{31C25E06-8A72-4520-B079-85ABD24B8847}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">34401A.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../数字多用表类lvlibp/34401A/34401A.lvlibp</Property>
@@ -123,7 +136,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{101DAB80-D659-482E-881F-D58226050BD8}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Simulation DMM.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../数字多用表类lvlibp/Simulation DMM/Simulation DMM.lvlibp</Property>
@@ -162,7 +175,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{20BB731C-B1F0-4FF3-864D-AE2288E5E8D8}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">34461A.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../数字多用表类lvlibp/34461A/34461A.lvlibp</Property>
